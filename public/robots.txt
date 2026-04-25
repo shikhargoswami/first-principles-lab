@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://firstprincipleslab.vercel.app/sitemap.xml

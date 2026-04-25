@@ -45,7 +45,7 @@ export default function Home() {
             Not definitions. Not summaries. The actual mechanics of how things work.
           </p>
           <div className="flex flex-wrap gap-4">
-            <Link href="/courses" className="bg-teal-600 text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-teal-700 transition-all shadow-lg shadow-teal-600/20">
+            <Link href="/courses/product-management" className="bg-teal-600 text-white px-8 py-4 rounded-xl font-semibold text-lg hover:bg-teal-700 transition-all shadow-lg shadow-teal-600/20">
               Start Learning Free →
             </Link>
             <Link href="/blog" className="border-2 border-gray-200 text-gray-700 px-8 py-4 rounded-xl font-semibold text-lg hover:border-teal-400 hover:text-teal-600 transition-all">
@@ -127,7 +127,7 @@ export default function Home() {
           <h2 className="text-4xl font-bold mb-12 max-w-xl leading-tight">Pick a domain. Go deep.</h2>
           <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-5">
             {Object.entries(domainConfig).map(([slug, config]) => (
-              <Link key={slug} href="/courses" className={"block p-6 rounded-2xl border-2 transition-all group " + config.color}>
+              <Link key={slug} href={`/courses/${slug}`} className={"block p-6 rounded-2xl border-2 transition-all group " + config.color}>
                 <span className="text-4xl mb-4 block">{config.emoji}</span>
                 <h3 className="font-bold text-lg mb-1 group-hover:text-teal-700 transition-colors">{config.label}</h3>
                 <p className="text-gray-500 text-sm leading-relaxed">{config.tagline}</p>

@@ -1,0 +1,293 @@
+THE INTRODUCTION POST
+Course: PM Interview Mastery from First Principles
+Why Every PM Course You've Taken Has Failed You
+And the one structural reason understanding is harder to find than information
+Course: PM Interview Mastery
+Post: 0 of 8 — Introduction
+Series: The Master Equation
+Read time: 14 minutes
+Prerequisite: None. This is where we start.
+
+Before We Begin: A Confession
+Most PM prep content is built backwards.
+
+It starts with the answer — here are the frameworks, here are the templates, here are the sample responses — and works toward the questions that produced those answers.
+
+This feels efficient. It isn't.
+
+When you memorize a framework without understanding the problem it was designed to solve, you have a tool with no theory of when to use it. And in an interview room — where questions are ambiguous, situations are messy, and the right framework isn't announced in advance — a collection of tools with no theory of application is almost useless.
+
+You've felt this. You've memorized RICE and then frozen when a prioritization question didn't fit the template. You've memorized STAR and then produced a behavioral answer that technically followed the format but felt hollow. You've studied the Kano Model and then failed to use it because the question didn't say "use the Kano Model."
+
+The frameworks didn't fail you. The order in which you learned them did.
+
+This course exists to reverse that order.
+
+What This Course Is
+This is a first-principles course on PM interview mastery.
+
+"First principles" is not marketing language here. It has a specific meaning:
+
+Every concept in this course is taught by starting at the irreducible atomic truth — the thing that cannot be broken down further — and building upward from there. Not from definitions downward. Not from frameworks inward. From the ground up.
+
+The difference matters more than it sounds.
+
+When you learn from definitions downward, you learn what things are called. When you learn from atomic truths upward, you learn why things exist — and from that understanding, you can derive any specific application yourself without memorizing it.
+
+That is the goal of this course. Not to give you answers you can reproduce. To build understanding deep enough that you can derive the right answer to any question you've never seen before.
+
+Who This Course Is For
+This course is written for three kinds of people:
+
+1. Aspiring PMs preparing for interviews
+You are transitioning from engineering, analytics, consulting, design, or another domain. You know roughly what a PM does. You do not yet have the internalized thinking system that produces great PM interview answers under pressure.
+
+2. Current PMs preparing for senior roles
+You've shipped products. You've run sprints. But when it comes to articulating your thinking in a structured, first-principles way — the kind that lands at Google, Meta, or a Series B startup — you feel the gap between what you know and what you can communicate.
+
+3. Product thinkers who want to think more rigorously
+You are not necessarily interviewing. But you want to understand how great PMs actually reason — not the surface-level "think about the user" advice, but the mechanical, step-by-step cognitive process underneath it.
+
+If you are none of these three: this course is probably not for you. And that is fine. First Principles Lab does not try to be for everyone. It tries to be exactly right for someone.
+
+The Central Problem With PM Prep
+Let me state the problem with maximum precision before we solve it.
+
+Here is what most PM prep resources teach:
+
+text
+FRAMEWORK → APPLICATION → PRACTICE QUESTION
+Here is what that produces:
+
+A candidate who can execute a framework when the question announces itself clearly — and struggles when it doesn't.
+
+Here is what this course teaches instead:
+
+text
+ATOMIC TRUTH → MECHANICAL UNDERSTANDING → FRAMEWORK AS DERIVED TOOL → APPLICATION
+Here is what that produces:
+
+A candidate who understands why a framework exists well enough to adapt it, combine it with other frameworks, or abandon it entirely when the situation demands something it wasn't designed for.
+
+The difference between these two candidates is not visible in easy interview questions. It becomes completely visible in hard ones — the ambiguous, multi-part, "how would you approach an entirely new problem" questions that senior PM interviews are built around.
+
+The Master Equation
+Before any pillar, any framework, any concept — you need the governing architecture.
+
+PM interview mastery is not a checklist. It is a system. And like all systems, it has a governing equation:
+
+PM Interview Mastery
+=
+f
+(
+Product Sense
+×
+Analytical Execution
+×
+Strategy
+×
+Behavioral Intelligence
+×
+Business Acumen
+×
+Communication Architecture
+×
+Self-Knowledge
+)
+PM Interview Mastery=f(Product Sense×Analytical Execution×Strategy×Behavioral Intelligence×Business Acumen×Communication Architecture×Self-Knowledge)
+
+This equation is multiplicative, not additive.
+
+Read that again, because it changes how you prepare.
+
+In an additive system, being excellent at five variables and weak at two still produces a strong overall score. In a multiplicative system, a zero in any single variable collapses the entire product to zero.
+
+You can have world-class product sense, a perfect analytical framework, and a brilliant strategy — and if you cannot communicate your thinking under pressure, you fail. The answer was right. The interviewer couldn't follow it. The offer doesn't come.
+
+You can have everything and be undone by the one variable you underinvested in.
+
+This is why the course covers all seven pillars. Not because every pillar is equally hard for every person — but because any unaddressed pillar is a potential collapse point.
+
+The Seven Pillars: A Map Before the Territory
+Here is what you are about to learn and why each piece is irreplaceable:
+
+Pillar 1 — Product Sense
+"Do you deeply understand users?"
+
+What it governs: Product design rounds. "Improve X." "Design a product for Y."
+
+The atomic truth it starts from:
+Humans have gaps between where they are and where they want to be. Products only earn the right to exist by closing that gap better than any alternative.
+
+What is impossible without it:
+Every other pillar becomes decoration. You can apply every framework perfectly and still build the wrong thing — because you never understood whose problem you were solving and why that problem exists at all.
+
+The failure it prevents:
+Candidates who jump to features before users. Who treat "think about the user" as a step to perform rather than a discipline to internalize.
+
+Pillar 2 — Analytical Execution
+"Can you measure and debug reality?"
+
+What it governs: Metrics definition rounds. Root cause analysis. "Your metric dropped X% — what happened?"
+
+The atomic truth it starts from:
+Every user action leaves a signal. A metric is a compressed version of millions of signals. All compressions lose information — and the wrong compression hides the truth.
+
+What is impossible without it:
+You cannot set goals, detect problems, diagnose failures, or make decisions with any rigor. You are permanently in the realm of opinion rather than evidence.
+
+The failure it prevents:
+Candidates who pick vanity metrics, who skip segmentation before hypothesizing, who produce non-MECE hypothesis trees and call it analysis.
+
+Pillar 3 — Strategy & Prioritization
+"Can you allocate scarce resources wisely?"
+
+What it governs: Prioritization rounds. Strategy questions. "If you were PM for X, what would you focus on?"
+
+The atomic truth it starts from:
+Every resource used on Option A is permanently unavailable for Option B. The question is never "is this valuable?" It is always "is this more valuable than everything else I could do instead?"
+
+What is impossible without it:
+You cannot build a roadmap, say no defensibly, or explain why Feature A matters more than Feature B. You optimize locally instead of globally — building what's loudest in the room instead of what compounds most toward the long-term position.
+
+The failure it prevents:
+Candidates who apply frameworks mechanically and accept the output without a strategic override check. Who optimize within the wrong problem space entirely.
+
+Pillar 4 — Behavioral Intelligence
+"Have you shipped real things with real people?"
+
+What it governs: Behavioral rounds. Leadership questions. "Tell me about a time you..."
+
+The atomic truth it starts from:
+Behavior is the only evidence that values are real. Anyone can claim they "care about users" or "drive with data." Only past behavior — with stakes, constraints, and opposition — proves it.
+
+What is impossible without it:
+You cannot be trusted with real product decisions. A PM who cannot demonstrate operational history is a PM whose future behavior is unpredictable — and unpredictability is disqualifying at this level.
+
+The failure it prevents:
+Candidates who use "we" instead of "I," who attribute failures to external circumstances, who deliver behavioral answers that are technically formatted but experientially hollow.
+
+Pillar 5 — Business Acumen
+"Do you understand how the company makes money?"
+
+What it governs: Strategy rounds. Executive interviews. The implicit business sub-text in almost every question.
+
+The atomic truth it starts from:
+A company is a machine that converts inputs (capital, labor, time) into outputs (user value) and captures a fraction of that value as revenue. Every product decision either improves the conversion efficiency of this machine, expands it, or breaks it.
+
+What is impossible without it:
+You generate valid user ideas that are strategically naïve. You build features that solve real problems but make no contribution to the business's survival architecture. You are permanently a feature thinker, never a business thinker.
+
+The failure it prevents:
+Candidates who cannot connect product decisions to business model mechanics. Who recommend engagement features for subscription businesses (should optimize retention) or retention features for advertising businesses (should optimize targeting signal quality).
+
+Pillar 6 — Communication Architecture
+"Can you structure thought under pressure?"
+
+What it governs: Every single round. This is the output layer — the interface between your thinking and the interviewer's understanding.
+
+The atomic truth it starts from:
+The human brain does not process information linearly. It processes it hierarchically — top-down. It needs the answer first, then the evidence. Any communication that reverses this order forces the listener to hold everything in working memory until the conclusion arrives — and working memory is tiny, fragile, and impatient.
+
+What is impossible without it:
+You can have every right answer and still fail. The answer was correct. The interviewer couldn't follow the path to it. The offer doesn't come.
+
+The failure it prevents:
+Candidates who build toward their answer instead of leading with it. Who mistake "communicating a lot" for "communicating clearly." Who think structure is for presentations, not conversations.
+
+Pillar 7 — Self-Knowledge & Narrative
+"Are you someone I'd trust with a product?"
+
+What it governs: "Tell me about yourself." "Why PM?" "Why this company?" "What's your weakness?" The entire fit dimension of the interview.
+
+The atomic truth it starts from:
+Every person has a coherent thread running through their life — a set of recurring interests, instincts, and values that explains why they made every major decision. Self-knowledge is the ability to name that thread. Narrative is the ability to tell it so others can see it too.
+
+What is impossible without it:
+You cannot answer the self-knowledge questions convincingly. And without being believed on those questions, no framework in Pillars 1-6 closes the deal. Interviewers don't just hire competence. They hire people they can predict and trust.
+
+The failure it prevents:
+Candidates who are technically masterful but identity-less. Whose "Why PM?" is generic. Whose "Why this company?" references their prestige, not their problem. Whose weakness answer is a strength in disguise.
+
+How This Course Is Structured
+Each post in this series follows an identical architecture — by design:
+
+text
+LEVEL 0  →  The Atomic Truth
+             The irreducible foundation. One or two sentences.
+             The thing that cannot be broken down further.
+             Everything else in the post is built from this.
+
+LEVEL 1  →  What Makes It Real
+             The first layer of complexity built on the atomic truth.
+             The conditions, the dimensions, the non-obvious implications.
+
+LEVEL 2  →  The Structural Architecture
+             The full framework — not as a memorizable template
+             but as a logical consequence of Levels 0 and 1.
+
+LEVEL 3  →  How It Works Mechanically
+             Step-by-step. Who does what. Why it happens in that order.
+             The traps at each step. The failure modes at each level.
+
+LEVEL 4  →  How It Connects to Everything Else
+             Where this pillar sits in the master equation.
+             What it depends on. What depends on it.
+
+EXECUTABLE CHECKLIST
+             Not a summary. An operational tool.
+             The specific questions you run through in real time
+             during the interview question type this pillar governs.
+
+BRIDGE
+             Why the next pillar is necessary.
+             What question this pillar cannot answer on its own.
+             The precise gap that the next post fills.
+This structure is not stylistic. It is the pedagogical implementation of first-principles learning itself — each level built from the level below, each post built from the post before it.
+
+What This Course Will Not Do
+It will not give you scripts to memorize.
+
+It will not give you "top 10 PM interview answers."
+
+It will not tell you what to say when you don't know what to think.
+
+Because scripts fail under pressure. Top 10 lists are useless when Question 11 arrives. And saying something polished that you don't understand is detectable at interview speed — every experienced interviewer knows the difference between a thought that was produced and a thought that was retrieved.
+
+What this course will do is build your thinking system from the ground up — so that your answers are produced, not retrieved, every time.
+
+A Note on How to Read This Series
+Don't skim.
+
+Every post is built so that the first 20% contains the most important idea in the post. But the remaining 80% is where that idea becomes usable. The frameworks are consequences of the atomic truths. The checklists are consequences of the frameworks. You cannot use the checklist well if you skipped the atomic truth.
+
+Do the exercises.
+
+Each post ends with an executable checklist. Before you read the next post, apply the checklist to one real practice question. The understanding compounds. The skipping doesn't.
+
+Read in order.
+
+The bridge at the end of each post is not a teaser. It is the precise intellectual gap that the next post fills. If you skip posts, you will have tools without the theory of how they connect — which is the exact problem we started by diagnosing.
+
+The Series at a Glance
+Post	Pillar	Core Question	What You'll Be Able to Do After
+0	Introduction	Why does this exist?	Understand the full map before the territory
+1	Product Sense	What is the real problem?	Identify genuine user gaps at four levels of depth
+2	Analytical Execution	How do we know it's working?	Define metrics that can't be gamed; diagnose drops systematically
+3	Strategy & Prioritization	What do we build first?	Allocate resources using lifecycle, moat, and opportunity cost
+4	Behavioral Intelligence	Have you done this before?	Build a story bank that proves values through evidence
+5	Business Acumen	How does this company make money?	Connect product decisions to business model mechanics
+6	Communication Architecture	Can you make thinking visible?	Structure any answer under pressure using Pyramid + SCQA
+7	Self-Knowledge & Narrative	Why you, why here, why now?	Construct an authentic PM narrative that makes the interviewer certain
+One Last Thing Before We Begin
+You are going to be tempted, at some point in this series, to skip ahead to the checklist.
+
+Resist it.
+
+The checklist is the least valuable part of each post in isolation and the most valuable part when the reasoning behind it is fully internalized.
+
+The goal is not to memorize what to do.
+
+The goal is to understand deeply enough that you could derive what to do — even in a situation you've never practiced, with a question you've never seen, in a company you've never studied.
+
+That level of understanding is what separates candidates who get offers from candidates who get feedback.

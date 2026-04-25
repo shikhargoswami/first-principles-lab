@@ -19,8 +19,8 @@ const courseMetadata: Record<string, { title: string; emoji: string; description
   },
 };
 
-export default function CoursePage({ params }: { params: { slug: string } }) {
-  const courseSlug = params.slug;
+export default async function CoursePage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug: courseSlug } = await params;
   const metadata = courseMetadata[courseSlug as keyof typeof courseMetadata];
   const lessons = getCourseLessons(courseSlug);
 

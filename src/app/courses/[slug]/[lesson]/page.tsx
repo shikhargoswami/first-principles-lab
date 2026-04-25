@@ -4,10 +4,9 @@ import { getCourseLessonContent, getCourseLessons } from '@/lib/mdx';
 export default async function LessonPage({
   params,
 }: {
-  params: { slug: string; lesson: string };
+  params: Promise<{ slug: string; lesson: string }>;
 }) {
-  const courseSlug = params.slug;
-  const lessonSlug = params.lesson;
+  const { slug: courseSlug, lesson: lessonSlug } = await params;
 
   try {
     const lesson = await getCourseLessonContent(courseSlug, lessonSlug);
